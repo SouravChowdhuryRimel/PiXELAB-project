@@ -1,0 +1,92 @@
+.first-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.first h1 {
+    color: #1e1e1e;
+}
+
+.btn-danger {
+    background-color: #FF5722;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #e64a19;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.card .btn-warning {
+    background-color: #FF5722;
+    border: none;
+}
+
+.text-danger {
+    color: #FF5722;
+}
+
+.intro-section h5 {
+    font-size: 1.25rem;
+}
+
+.intro-section p {
+    font-size: 1rem;
+    max-width: 500px;
+}
+
+.intro-section img {
+    border-radius: 12px;
+    max-width: 100%;
+}
+
+.testimonials h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.testimonials .card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease;
+}
+
+.testimonials .card:hover {
+    transform: translateY(-5px);
+}
+
+.team-section .card {
+    transition: transform 0.2s ease;
+    border-radius: 12px;
+}
+
+.team-section .card:hover {
+    transform: translateY(-5px);
+}
+
+.newsletter-section input.form-control {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.newsletter-section .btn-warning {
+    background-color: #ff6a00;
+    border: none;
+}
+
+.newsletter-section .btn-warning:hover {
+    background-color: #e65c00;
+}
+
+.footer-section {
+    background-color: #fff;
+    font-size: 0.9rem;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
